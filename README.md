@@ -12,3 +12,6 @@ Repositori ini berisi kumpulan kode program, tugas, dan proyek praktikum untuk m
 - **Backend:** PHP 
 - **Database:** MySQL / MariaDB
 - **Tools:** VS Code, Git, XAMPP
+
+## Cara Menjalankan Program
+php -S localhost:8000
