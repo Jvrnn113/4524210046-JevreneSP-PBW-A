@@ -28,14 +28,14 @@ Fungsi bawaan PHP untuk menghitung perpangkatan, di mana $angka1 sebagai basis d
 
 ### Sebelum Modifikasi:
 1. kalkulator.php
-![alt text](<WhatsApp Image 2026-09-24 at 19.34.17-1.jpeg>)
+<img width="687" height="296" alt="WhatsApp Image 2026-09-24 at 19 34 17" src="https://github.com/user-attachments/assets/27a36da6-895c-469c-8297-19a59b754d81" />
 
 2. biodata.php
-![alt text](<WhatsApp Image 2026-09-24 at 19.35.06.jpeg>)
+<img width="808" height="347" alt="WhatsApp Image 2026-09-24 at 19 35 06" src="https://github.com/user-attachments/assets/98949049-2284-4a8d-9417-8244b3b5b8a0" />
 
 ### Sesudah Modifikasi:
 1. kalkulator1.php
-![alt text](<WhatsApp Image 2026-09-24 at 19.45.53.jpeg>)
+<img width="1600" height="553" alt="WhatsApp Image 2026-09-24 at 19 45 53" src="https://github.com/user-attachments/assets/103f24fd-acc1-4d6f-8835-7a207c0d037a" />
 
 2. biodata1.php
-![alt text](<WhatsApp Image 2026-09-24 at 19.46.08.jpeg>)
+<img width="1600" height="788" alt="WhatsApp Image 2026-09-24 at 19 46 08" src="https://github.com/user-attachments/assets/ecb5f720-b290-4409-8945-13e8af76baea" />
