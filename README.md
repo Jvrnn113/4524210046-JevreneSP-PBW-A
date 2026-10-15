@@ -14,4 +14,4 @@ Repositori ini berisi kumpulan kode program, tugas, dan proyek praktikum untuk m
 - **Tools:** VS Code, Git, XAMPP
 
 ## Cara Menjalankan Program
-php -S localhost:8000
+php artisan serve atau melalui IP Address yang tersedia.
